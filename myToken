@@ -32,7 +32,7 @@ contract MyToken {
     }
 
     // burn function
-    function burining (address _addr, uint _val) public {
+    function burning (address _addr, uint _val) public {
         if(balance[_addr] >= _val) {
             Tsupp -= _val;
             balance[_addr] -= _val;
