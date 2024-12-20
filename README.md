@@ -1,6 +1,3 @@
-# Assessment-for-ETH
-This is the submission for the ETH Proof Beginner Course by Metacrafters.
-
 # Description
 This program is based on Solidity and allows the user to create a token and can mint and burn the values in the token from the token balance.
 
